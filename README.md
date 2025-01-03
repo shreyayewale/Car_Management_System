@@ -11,7 +11,15 @@ Before running this project, ensure you have the following installed:
 * Java Development Kit (JDK) 23  
 * MySQL Server  
 * Maven  
-* An IDE like IntelliJ IDEA or Eclipse  
+* An IDE like IntelliJ IDEA or Eclipse
+
+### Dependencies 
+
+1. Spring Boot Starter Web – For building RESTful APIs and web applications.  
+2. Spring Boot Starter Data JPA – For interacting with relational databases using JPA (Java Persistence API).  
+3. MySQL Connector – To connect your application to the MySQL database.  
+4. Spring Boot DevTools – For enabling live reload and quick development iterations.  
+5. Spring Boot Starter Test – For unit testing and integration testing.  
 
 ### Database Configuration
 
